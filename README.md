@@ -44,4 +44,4 @@ This seminar explores the design and analysis of quantum algorithms, focusing on
 
 ## Acknowledgment
 
-I extend my heartfelt gratitude to Prof. Vikas Saxena, Director & Head, CSE & IT Department, JIIT, Noida for his invaluable guidance and support throughout the development of this seminar on Design and Analysis of Quantum Algorithms.
+I extend my heartfelt gratitude to Prof. Vikas Saxena, Director & Head, CSE & IT Department, JIIT, Noida for his invaluable guidance and support throughout the development of this seminar on **Design and Analysis of Quantum Algorithms**.
